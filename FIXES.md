@@ -11,7 +11,7 @@ diff against upstream v1.4.3 is the contents of this document.
 Install this fork with pipx:
 
 ```bash
-pipx install --force git+https://github.com/<your-user>/htb-operator-fixed-vpn
+pipx install --force git+https://github.com/z3r0s6/htb-operator-fixed-vpn
 ```
 
 ---
