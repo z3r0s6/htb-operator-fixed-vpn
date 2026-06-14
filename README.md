@@ -9,7 +9,7 @@
 > # or directly:
 > pipx install --force .
 > # or straight from GitHub (after you push it):
-> pipx install --force git+https://github.com/<your-user>/htb-operator-fixed-vpn
+> pipx install --force git+https://github.com/z3r0s6/htb-operator-fixed-vpn
 > ```
 > Then use it (always add `--tcp` if your network blocks UDP):
 > ```bash
